@@ -1,13 +1,22 @@
-p{
+body{
+
+	background: #DAF7A6;
+}
+
+h1{
 	text-align: center;
 }
 
-body{
-
-	background: #cccccc;
+p{
+	text-align: center;
 }
 
 em strong{
 
 	color: blue;
+}
+
+#p2{
+
+	font-size: 20px;
 }
