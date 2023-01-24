@@ -28,7 +28,7 @@ nav a{
 }
 
 .productos{
-	width: 940px;
+	width: 960px;
 	margin: 0 auto;
 	padding: 50px;
 }
@@ -38,6 +38,10 @@ nav a{
 	text-align: center;
 	width: 30%;
 	vertical-align: top;
+	/*background: #CCCCCC;*/
+	margin: 0 1.4%;
+	padding: 30px 20px;
+	box-sizing: border-box;
 }
 
 .productos h2{
