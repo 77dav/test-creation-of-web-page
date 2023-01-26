@@ -151,7 +151,9 @@ td, th {
 }
 
 
-/* css para la pagina home */ 
+/*===========================================================*/
+/*= css para la pagina home                                 =*/
+/*===========================================================*/ 
 
 .banner{
 	width: 100%;
@@ -234,6 +236,11 @@ td, th {
 
 .imagen-diferenciales{
 	width: 60%;
+	transition: 400ms;
+}
+
+.imagen-diferenciales:hover{
+	opacity: 30%;
 }
 
 .video{
